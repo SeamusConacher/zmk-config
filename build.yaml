@@ -17,6 +17,6 @@
 include:
   - board: nice_nano_v2
     shield: sofle_left
-    # snipped: studio_rpc_usb_uart
+    snippet: studio-rpc-usb-uart
   - board: nice_nano_v2
     shield: sofle_right
